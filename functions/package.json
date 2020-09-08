@@ -1,0 +1,22 @@
+{
+  "name": "universo-flutter-bot",
+  "version": "0.0.1",
+  "license": "GNU",
+  "description": "Universo Flutter telegram bot",
+  "main": "bot.js",
+  "author": "deandreamatias",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "telegraf": "^3.38.0"
+  },
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

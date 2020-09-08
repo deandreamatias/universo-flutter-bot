@@ -1,0 +1,13 @@
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+yarn-error.log
+
+# dotenv environment variables file
+.env

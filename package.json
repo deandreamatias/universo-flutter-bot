@@ -1,0 +1,14 @@
+{
+    "name": "universo-flutter-bot",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:deandreamatias/universo-flutter-bot.git"
+    },
+    "license": "GNU",
+    "description": "Universo Flutter telegram bot",
+    "author": "deandreamatias",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
